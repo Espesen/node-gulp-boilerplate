@@ -1,0 +1,20 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "0.0.1",
+  "description": "Simple boilerplate for Nodejs developement",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-plumber": "^1.1.0",
+    "jshint": "^2.9.5",
+    "mockery": "^2.1.0",
+    "sinon": "^2.3.5"
+  }
+}
